@@ -52,7 +52,7 @@ The ultimate objective was to identify **high-value customer segments** and deli
 - **Python**: pandas, numpy
 - **Data Visualization**: seaborn, matplotlib
 - **Data Processing**: openpyxl (for Excel)
-- **Jupyter Notebook** for analysis and reporting
+- **Google colab** for analysis and reporting
 
 ---
 
@@ -64,6 +64,4 @@ The ultimate objective was to identify **high-value customer segments** and deli
 
 *(See the `images/` folder for charts and plots)*
 
----
 
-## 📂 Project Structure
