@@ -62,6 +62,6 @@ The ultimate objective was to identify **high-value customer segments** and deli
 - **Popular Pack Sizes**
 - **Customer Composition by Affluence & Life Stage**
 
-*(See the `images/` folder for charts and plots)*
+
 
 
